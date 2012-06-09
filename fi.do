@@ -186,7 +186,7 @@ input id
 
 
 li 
-save "/Users/leondutoit/Desktop/slug/fidata/world/mergedata.dta", replace
+save "mergedata.dta", replace
 
 
 
